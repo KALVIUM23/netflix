@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url("./assets/Title-Image.png");
+    width: 100%;
+    height: 50%;
+    top: 0;
+
+}
+nav .logo{
+    opacity: 0.;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    border-spacing: 80cm;
+
+
+}
